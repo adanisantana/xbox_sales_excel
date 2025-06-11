@@ -1,10 +1,10 @@
 # Dashboard de vendas do Xbox
 Este dashboard fornece uma visão geral das vendas de assinaturas relacionadas ao Xbox Game Pass, cobrindo o período de 01/01/2024 a 31/12/2024. Ele apresenta dados agregados sobre as assinaturas do EA Play Season Pass, Minecraft e o total de assinaturas do Xbox Game Pass.
 
-##Propósito
+## Propósito
 O objetivo deste dashboard é permitir o acompanhamento e a análise rápida das vendas de assinaturas, identificando o desempenho de diferentes tipos de assinaturas e o total de assinaturas do Xbox Game Pass em um determinado período.
 
-##Visão Geral do Dashboard
+## Visão Geral do Dashboard
 O dashboard é dividido em seções principais para facilitar a compreensão dos dados:
 
 ## Período de Apuração
